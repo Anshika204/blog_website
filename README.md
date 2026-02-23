@@ -2,6 +2,12 @@
 
 A full-stack Blog Web Application built using the MERN stack.
 
+## 🌐 Live Demo
+
+🚀 Frontend: https://blog-website-8msw.vercel.app/
+
+> Note: Backend is deployed on Render.
+
 Users can:
 - 🔐 Sign up & Login (JWT Authentication)
 - ✍️ Create Blogs
